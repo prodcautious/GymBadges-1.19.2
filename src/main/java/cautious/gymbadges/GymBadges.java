@@ -1,5 +1,6 @@
 package cautious.gymbadges;
 
+import cautious.gymbadges.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -12,6 +13,8 @@ public class GymBadges implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		ModItems.registerModItems();
 
 	}
 }

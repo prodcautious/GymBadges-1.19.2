@@ -1,0 +1,22 @@
+{
+  "item.gymbadges.fire_badge": "Fire Badge",
+  "item.gymbadges.bug_badge": "Bug Badge",
+  "item.gymbadges.dark_badge": "Dark Badge",
+  "item.gymbadges.dragon_badge": "Dragon Badge",
+  "item.gymbadges.electric_badge": "Bug Badge",
+  "item.gymbadges.fairy_badge": "Dark Badge",
+  "item.gymbadges.fighting_badge": "Dragon Badge",
+  "item.gymbadges.flying_badge": "Flying Badge",
+  "item.gymbadges.ghost_badge": "Ghost Badge",
+  "item.gymbadges.grass_badge": "Grass Badge",
+  "item.gymbadges.ground_badge": "Ground Badge",
+  "item.gymbadges.ice_badge": "Ice Badge",
+  "item.gymbadges.normal_badge": "Normal Badge",
+  "item.gymbadges.poison_badge": "Poison Badge",
+  "item.gymbadges.psychic_badge": "Psychic Badge",
+  "item.gymbadges.rock_badge": "Rock Badge",
+  "item.gymbadges.steel_badge": "Steel Badge",
+  "item.gymbadges.water_badge": "Water Badge",
+
+  "itemGroup.gymbadges.gym_badges": "Gym Badges"
+}
