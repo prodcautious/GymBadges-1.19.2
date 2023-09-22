@@ -2,6 +2,7 @@ package cautious.gymbadges.item;
 
 import cautious.gymbadges.GymBadges;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
+import net.minecraft.item.ArmorItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
